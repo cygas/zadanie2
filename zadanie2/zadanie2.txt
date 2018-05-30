@@ -1,0 +1,22 @@
+Zadanie 2. VanilaJS/Backbone/Marionette
+1.
+- Stworzyæ formularz z polami (imie, nazwisko, numer telefonu, email)
+- Dodaæ przycisk submit
+- Przycisk submit powinien wypisywaæ zawartoœæ formularza do konsoli (F12) za pomoc¹ funkcji console.log
+2. 
+- Wprowadziæ walidacjê wszystkich pól
+Za³o¿enia:
+- ka¿de pole musi byæ uzupe³nione
+- pole numer telefonu powinno zawieraæ same cyfry z zakresu [0-9].
+- pole email powinno byæ prawid³owym (sk³adniowo) adresem email
+3.
+- Nad formularzem stworzyæ diva i przypisaæ mu jakiejœ id.
+- Niepoprawna walidacja powinna wypisaæ b³êdy do ww. diva w czytelnej formie
+- Jeœli uda³o siê przejœæ walidacjê, div z b³êdami powinien zawieraæ komunikat "uda³o siê zapisaæ dane".
+4. 
+- Pod formularzem stworzyæ tabelê htmlowa.
+- Przycisk submit po poprawnej walidacji generuje wiersz tabeli na podstawie wprowadzonych danych.
+5.
+- dodac checkboxy do wierszy 
+- 1 link koloruje ramki wybranych wierszy po kliku w link
+- 2 link posiada atrybut href, mimo tego zawsze niaciœniêcie przekierowuje do innej strony, np. http://lmgtfy.com/
